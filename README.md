@@ -1,2 +1,2 @@
-# DSA-
-These are the solutions of DSA problems
+# JAV
+Practice JAVA Codes
