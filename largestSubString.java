@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class largestSubStringPalindrom {
+public class largestSubString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the binary string:");
